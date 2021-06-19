@@ -1,0 +1,21 @@
+{
+  "name": "three-trix",
+  "version": "1.0.0",
+  "description": "A (prototype) Three.js framework",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Three.js",
+    "Framework",
+    "3d",
+    "Engine"
+  ],
+  "author": "Ray Lawrence Henri Sison",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "three": "^0.129.0"
+  }
+}
